@@ -1,7 +1,12 @@
-## How to learn C# 101
+## LLH Notebook
 
-C# is a high-level language developed by Microsoft. asdasdasdddddddddasddddddasdasdasdasdasdasdasdasdasdasdasdasd
-asdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-asdasdasdasdasdasdasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfadsfasdfasdfasdfasdfasdfasdfasdfasdfasdfasd
+### Professional objective - What you see yourself being.
+* What you want to do.
+* Gives direction
+* Core of your Marketing
+* Explore your options
+* Should be easily understood and focused.
 
-You can learn more [here.](https://www.example.com)
+**Professional Objective is a sentence or phase that concisely describes the kind of work you want to do.**
+
+**My Professional Objective:** To obtain a position as a Software Engineer that utilizes my Information Technology exeperience, cerifications and problem-solving skills.

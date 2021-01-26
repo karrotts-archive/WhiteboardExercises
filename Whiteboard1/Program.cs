@@ -6,7 +6,6 @@ namespace Whiteboard1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Whiteboard Solutions Container!");
         }
     }
 }

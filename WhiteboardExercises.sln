@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaOfCircle", "AreaOfCircl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{944A2DD1-1905-41BA-B759-808BA5CF0FB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome", "palindrome\palindrome.csproj", "{BFA96BE5-7E51-4EA3-B0ED-F634C27B0390}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "palindrome", "palindrome\palindrome.csproj", "{BFA96BE5-7E51-4EA3-B0ED-F634C27B0390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort", "Sort\Sort.csproj", "{5B0653E1-3D5D-47AB-B391-2B23178D0FD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{BFA96BE5-7E51-4EA3-B0ED-F634C27B0390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFA96BE5-7E51-4EA3-B0ED-F634C27B0390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFA96BE5-7E51-4EA3-B0ED-F634C27B0390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B0653E1-3D5D-47AB-B391-2B23178D0FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0653E1-3D5D-47AB-B391-2B23178D0FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0653E1-3D5D-47AB-B391-2B23178D0FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0653E1-3D5D-47AB-B391-2B23178D0FD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

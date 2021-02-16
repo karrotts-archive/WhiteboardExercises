@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "palindrome", "palindrome\palindrome.csproj", "{BFA96BE5-7E51-4EA3-B0ED-F634C27B0390}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort", "Sort\Sort.csproj", "{5B0653E1-3D5D-47AB-B391-2B23178D0FD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort", "Sort\Sort.csproj", "{5B0653E1-3D5D-47AB-B391-2B23178D0FD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Camel", "Camel\Camel.csproj", "{9D70422F-8321-4963-BBA6-81D33A14BB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeCheck", "PrimeCheck\PrimeCheck.csproj", "{107B4375-D222-4B06-98BB-048194FC17BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{5B0653E1-3D5D-47AB-B391-2B23178D0FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B0653E1-3D5D-47AB-B391-2B23178D0FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B0653E1-3D5D-47AB-B391-2B23178D0FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D70422F-8321-4963-BBA6-81D33A14BB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D70422F-8321-4963-BBA6-81D33A14BB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D70422F-8321-4963-BBA6-81D33A14BB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D70422F-8321-4963-BBA6-81D33A14BB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107B4375-D222-4B06-98BB-048194FC17BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107B4375-D222-4B06-98BB-048194FC17BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107B4375-D222-4B06-98BB-048194FC17BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107B4375-D222-4B06-98BB-048194FC17BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
